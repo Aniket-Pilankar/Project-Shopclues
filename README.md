@@ -4,7 +4,14 @@
 
 A one week project for cloning the **Shopclues.com** website.
 
-![Shopclues-webite](https://user-images.githubusercontent.com/60615344/159124244-7bb7dd9b-d249-4f9b-b5b2-727545399b3d.png)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/1.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/2.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/3.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/4.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/5.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/6.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/7.jpg)
+![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/8.jpg)
 
 ## Contributors
 
