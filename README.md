@@ -4,14 +4,30 @@
 
 A one week project for cloning the **Shopclues.com** website.
 
+### Home Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/1.jpg)
+
+### Login Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/2.jpg)
+
+### Mens Category Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/3.jpg)
+
+### Mens Tshirt Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/4.jpg)
+
+### Individual Product Descriptive Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/5.jpg)
+
+### Cart Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/6.jpg)
+
+### Address Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/7.jpg)
+
+### Payment Page
 ![Shopclues-webite](https://github.com/bishal-Samanta/Project-Shopclues/blob/main/Shopclues%20Images/8.jpg)
+
 
 ## Contributors
 
